@@ -4,4 +4,4 @@ Design and Javascript logic for a To-do List app that is capable of adding new t
 
 ## Screenshot:
 
-![img](./images/Screenshot.png)
+![img](./images/screen.png)
